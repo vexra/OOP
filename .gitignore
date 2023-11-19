@@ -1,1 +1,3 @@
 *.class
+/JDBCProject/nbproject/private/
+/JDBCProject/build/
