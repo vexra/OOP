@@ -1,1 +1,6 @@
 *.class
+
+/Libraries
+
+/Netbeans/*/nbproject/private/
+/Netbeans/*/JDBCProject/build/
