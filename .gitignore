@@ -3,5 +3,6 @@
 /Libraries
 
 /Netbeans/*/nbproject/private/
-/Netbeans/*/JDBCProject/build/
-/LibraryManagement/nbproject/private/
+/Netbeans/*/build/
+/Netbeans/*/dist/
+
