@@ -9,6 +9,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
 /**
  *
  * @author user
@@ -19,6 +20,7 @@ public class DBHelper {
     private static final String PASSWORD = "";
     private static final String DB = "booking-app";
     private static final String MYCONN = "jdbc:mysql://localhost/"+DB;
+
     public static Connection getConnection(){
         Connection conn = null;
         try {
