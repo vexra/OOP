@@ -22,7 +22,7 @@ Ticketify uses a number of open source projects to work properly:
 - [Java Fx](https://openjfx.io/) - JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java.
 - [MySql](https://www.mysql.com/) - The world's most popular open source database.
 
-And of course Dillinger itself is open source with a [public repository](https://github.com/vexra/OOP/tree/master/Netbeans/Booking)
+And of course Ticketify itself is open source with a [public repository](https://github.com/vexra/OOP/tree/master/Netbeans/Booking)
  on GitHub.
  
 ## Deployment
