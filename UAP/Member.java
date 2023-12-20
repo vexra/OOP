@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Member extends Library {
+public class Member {
     public String name;
     public ArrayList<Book> borrowedBooks = new ArrayList<Book>();
 
